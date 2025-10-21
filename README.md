@@ -1,16 +1,13 @@
-## Hi there 👋
+## Welcome
 
-<!--
-**gregor-scrimba/gregor-scrimba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Gregor (he/him) and I'm a Full Stack Developer & Teacher at [Scrimba](https://scrimba.com/) ⚡️
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML & CSS
+- JavaScript / React / Next / Node
+- Python
+- SQL
+- Git & GitHub
+
+_aka [Albadylic](https://github.com/albadylic)..._ 🤫
